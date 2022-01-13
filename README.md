@@ -28,6 +28,8 @@ Make sure the target resource pc is running like below.<br>
 Make sure under system tab "Session management enforces permissions of controlling user" option is diabled like below
 <br><br>
 ![picture alt](Screenshots/session.png "permission")
+Android versions:<br>
+Marshmallow 6 to latest version Tiramisu 13
 <br>
 # How to login.
 Server Url : enter target resource pc ip address and port no(default port no is 8181)<br>
